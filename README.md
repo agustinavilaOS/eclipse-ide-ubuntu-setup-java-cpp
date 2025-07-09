@@ -1,15 +1,15 @@
 ---
 
-# 🚀 Instala Eclipse IDE en Ubuntu y potencia tu desarrollo Java y C++
+# 🚀 Instala Eclipse IDE en Ubuntu 18.04 y potencia tu desarrollo Java y C++
 
-¿Buscas un entorno profesional, robusto y versátil para desarrollar en Java y C/C++ desde Ubuntu? **Eclipse IDE** es la opción preferida por miles de empresas y desarrolladores gracias a su flexibilidad, gran ecosistema de plugins y soporte para los principales lenguajes de programación.
+¿Buscas un entorno profesional, robusto y versátil para desarrollar en Java y C/C++ desde Ubuntu 18.04? **Eclipse IDE** es la opción preferida por miles de empresas y desarrolladores gracias a su flexibilidad, gran ecosistema de plugins y soporte para los principales lenguajes de programación.
 En esta guía descubrirás lo fácil que es instalarlo, configurarlo y dejarlo listo para tus primeros proyectos profesionales, ¡en pocos minutos!
 
 ---
 
 ## 1️⃣ Actualización del sistema
 
-Para asegurar que tu entorno sea **estable, seguro y compatible con las últimas tecnologías**, comienza actualizando los repositorios y paquetes de Ubuntu.
+Para asegurar que tu entorno sea **estable, seguro y compatible con las últimas tecnologías**, comienza actualizando los repositorios y paquetes de Ubuntu 18.04.
 Este simple paso evitará problemas y garantizará una experiencia de desarrollo sin contratiempos.
 
 ```bash
@@ -117,6 +117,6 @@ En futuras publicaciones te mostraré cómo crear y ejecutar tus **primeros proy
 ---
 
 ¿Listo para programar con herramientas de clase mundial y llevar tus proyectos al siguiente nivel?
-**Eclipse IDE en Ubuntu es la mejor elección para quienes buscan productividad, estabilidad y crecimiento profesional.**
+**Eclipse IDE en Ubuntu 18.04 es la mejor elección para quienes buscan productividad, estabilidad y crecimiento profesional.**
 
 ---
