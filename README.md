@@ -109,13 +109,6 @@ Agrega las herramientas oficiales con estos simples pasos:
 
 ---
 
-## 8️⃣ Próximos pasos
-
-¡Felicidades! Ya tienes uno de los IDEs más potentes y versátiles del mundo, listo para tus retos profesionales y personales.
-En futuras publicaciones te mostraré cómo crear y ejecutar tus **primeros proyectos en C y Java con Eclipse**, desde cero y paso a paso, para que lleves tu carrera y tus ideas a un nuevo nivel.
-
----
-
 ¿Listo para programar con herramientas de clase mundial y llevar tus proyectos al siguiente nivel?
 **Eclipse IDE en Ubuntu 18.04 es la mejor elección para quienes buscan productividad, estabilidad y crecimiento profesional.**
 
